@@ -1,6 +1,10 @@
 # Investment Research Agent
 
-AAI-520 Group 6: Sandeep Bhargava, Ashish Kumar, and Aishwarya Pareek.
+AAI-520 Group 6:
+
+- **Sandeep Bhargava** owned the news and sentiment specialist, including the headline chain and the routing of earnings and macro stories.
+- **Ashish Kumar** owned the earnings and market specialists, plus the rubric that scores the brief and sends thin drafts back for revision.
+- **Aishwarya Pareek** owned the orchestrator, cross-run memory, and the notebook walkthrough that ties the desk together.
 
 We research one ticker with an orchestrator and three specialist agents that
 work from separate packets.
