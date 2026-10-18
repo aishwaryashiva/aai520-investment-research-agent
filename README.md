@@ -1,7 +1,9 @@
 # Investment Research Agent
 
-AAI-520 project. We research one ticker with an orchestrator and three
-specialist agents that work from separate packets.
+AAI-520 Group 6: Sandeep Bhargava, Ashish Kumar, and Aishwarya Pareek.
+
+We research one ticker with an orchestrator and three specialist agents that
+work from separate packets.
 
 - **Research Orchestrator** plans the tools, routes each piece of content,
   and writes the final brief.
